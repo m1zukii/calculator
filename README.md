@@ -4,4 +4,4 @@ c++ QT计算器
 运行：
 Cal_boxed.exe
 运行截图：
-img.png
+![](img.png)
